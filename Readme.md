@@ -6,3 +6,7 @@
 ####How to use is?
 To use it, just drag and drop in the themes section, on Alfred Prefs.
 
+
+
+
+
